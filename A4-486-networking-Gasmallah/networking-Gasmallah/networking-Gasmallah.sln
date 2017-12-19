@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networking-Gasmallah.Plugins", "networking-Gasmallah.Plugins.csproj", "{7FF75EC0-1915-A0D0-9332-20FDD896ABFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networking-Gasmallah", "networking-Gasmallah.csproj", "{44B4BD15-FE75-F6BC-0919-FA635ACB1B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "networking-Gasmallah.Editor", "networking-Gasmallah.Editor.csproj", "{CBDAD42B-CC3C-29D9-5FF6-E3B321625B20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF75EC0-1915-A0D0-9332-20FDD896ABFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF75EC0-1915-A0D0-9332-20FDD896ABFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF75EC0-1915-A0D0-9332-20FDD896ABFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF75EC0-1915-A0D0-9332-20FDD896ABFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B4BD15-FE75-F6BC-0919-FA635ACB1B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B4BD15-FE75-F6BC-0919-FA635ACB1B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B4BD15-FE75-F6BC-0919-FA635ACB1B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B4BD15-FE75-F6BC-0919-FA635ACB1B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDAD42B-CC3C-29D9-5FF6-E3B321625B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDAD42B-CC3C-29D9-5FF6-E3B321625B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDAD42B-CC3C-29D9-5FF6-E3B321625B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDAD42B-CC3C-29D9-5FF6-E3B321625B20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
